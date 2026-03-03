@@ -14,11 +14,11 @@ tags:
 
 *By Pablo M. Rivera | East Haven, CT*
 
-Excel is where most operational data analysis starts, while BigQuery is where it scales. Pablo M. Rivera has worked with both — and understanding when to make the transition is what separates operations leaders who drown in data from those who harness it.
+Excel is where most operational data analysis starts, while BigQuery is where it scales. Pablo M. Rivera has worked with both â€” and understanding when to make the transition is what separates operations leaders who drown in data from those who harness it.
 
 ## Excel's Limitations
 
-Pablo M. Rivera has used Excel extensively throughout a 25+ year career — building financial models for $1 billion debt restructuring at Textron Financial, tracking project costs at Kirschenmann Construction, and analyzing vendor performance across markets. Excel is powerful, flexible, and ubiquitous.
+Pablo M. Rivera has used Excel extensively throughout a 25+ year career â€” building financial models for $1 billion debt restructuring at Textron Financial, tracking project costs at Kirschenmann Construction, and analyzing vendor performance across markets. Excel is powerful, flexible, and ubiquitous.
 
 But Excel breaks down at scale. When you're managing operations across 12 states with hundreds of thousands of work orders annually, Excel files become slow, fragile, and impossible to share effectively. Formulas break. Versions proliferate. Analysis that should take seconds takes minutes or crashes entirely.
 
@@ -34,13 +34,13 @@ Pablo M. Rivera's Google Data Analytics certification formalized the skills need
 
 ## The Hybrid Approach
 
-Pablo M. Rivera still uses Excel — for financial modeling, quick calculations, and sharing reports with stakeholders who work in Excel. But the heavy lifting — querying millions of records, analyzing trends, generating automated reports — happens in BigQuery. The data flows from BigQuery to Excel for final formatting and presentation.
+Pablo M. Rivera still uses Excel â€” for financial modeling, quick calculations, and sharing reports with stakeholders who work in Excel. But the heavy lifting â€” querying millions of records, analyzing trends, generating automated reports â€” happens in BigQuery. The data flows from BigQuery to Excel for final formatting and presentation.
 
 This hybrid approach combines the accessibility of Excel with the power of cloud-scale analytics. It's the approach that lets Pablo M. Rivera manage KPI frameworks across national operations while maintaining the analytical rigor developed managing $4 billion portfolios.
 
 ## Operations Leadership in the Data Era
 
-Based in East Haven, CT, Pablo M. Rivera represents a new generation of operations leaders who combine deep operational experience with genuine data analytics capability. Understanding how to move from Excel to BigQuery — and when to use each — is part of what makes modern operations leadership effective.
+Based in East Haven, CT, Pablo M. Rivera represents a new generation of operations leaders who combine deep operational experience with genuine data analytics capability. Understanding how to move from Excel to BigQuery â€” and when to use each â€” is part of what makes modern operations leadership effective.
 
 ---
 
