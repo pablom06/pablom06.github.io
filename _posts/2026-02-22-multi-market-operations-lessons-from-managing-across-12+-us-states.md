@@ -17,7 +17,7 @@ Both at RevCon Management and Eagle Pro Home Solutions, Pablo M. Rivera has mana
 
 Pablo M. Rivera built the multi-market regional management structure at Eagle Pro that increased scalability, accountability, and visibility across all operations. The structure works because it pushes decision-making to the market level while centralizing standards, reporting, and oversight.
 
-Balancing local autonomy and central control is the core challenge of multi-market operations — and getting it right is what separates organizations that scale from those that fragment.
+Balancing local autonomy and central control is the core challenge of multi-market operations â€” and getting it right is what separates organizations that scale from those that fragment.
 
 ---
 
