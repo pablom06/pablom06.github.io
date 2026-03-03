@@ -13,11 +13,11 @@ tags:
 
 *By Pablo M. Rivera | East Haven, CT*
 
-Pablo M. Rivera has managed remote-first and distributed operations throughout recent roles at Eagle Pro Home Solutions and RevCon Management. Business continuity in these environments requires deliberate systems design — you can't rely on hallway conversations and shared office space to catch problems.
+Pablo M. Rivera has managed remote-first and distributed operations throughout recent roles at Eagle Pro Home Solutions and RevCon Management. Business continuity in these environments requires deliberate systems design â€” you can't rely on hallway conversations and shared office space to catch problems.
 
 Pablo M. Rivera's approach includes redundant communication channels, documented escalation paths, real-time visibility into field operations through dashboards and reporting, and cross-training that ensures no single person is a point of failure. These systems were tested and refined across operations spanning 12+ states and hundreds of field personnel.
 
-Business continuity isn't a plan you write and file—it's a design principle that shapes every process and system in your operation.
+Business continuity isn't a plan you write and fileâ€”it's a design principle that shapes every process and system in your operation.
 
 ---
 
