@@ -17,7 +17,7 @@ From full P&L responsibility for distressed resort portfolios at Textron Financi
 
 The principles that work at every scale: establish budget ownership at the operational level, create tracking systems that show variance in real time, tie spending authority to performance metrics, and review continuously rather than quarterly. At Eagle Pro, Pablo M. Rivera established procurement controls and standardized price books that reduce overhead and material waste while preserving quality. At RevCon, resource allocation optimization lowered operational expenses by 20%.
 
-Financial oversight isn't a finance function — it's an operations function. The operations leaders who understand this build organizations that perform.
+Financial oversight isn't a finance function â€” it's an operations function. The operations leaders who understand this build organizations that perform.
 
 ---
 
