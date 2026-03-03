@@ -14,17 +14,17 @@ tags:
 
 *By Pablo M. Rivera | East Haven, CT*
 
-Being bilingual in English and Spanish has been one of Pablo M. Rivera's most valuable professional assets — not just for communication, but for building trust across cultures and markets.
+Being bilingual in English and Spanish has been one of Pablo M. Rivera's most valuable professional assets â€” not just for communication, but for building trust across cultures and markets.
 
 ## Latin American Operations
 
-At Glencore Ltd. in Stamford, CT, Pablo M. Rivera managed Latin American operations for one of the world's largest commodities firms. Spanish wasn't just useful—it was essential for building relationships, navigating the regulatory environments, and managing the supply chains that made the operation successful.
+At Glencore Ltd. in Stamford, CT, Pablo M. Rivera managed Latin American operations for one of the world's largest commodities firms. Spanish wasn't just usefulâ€”it was essential for building relationships, navigating the regulatory environments, and managing the supply chains that made the operation successful.
 
 Later, at Textron Financial, Pablo M. Rivera structured $350 million in construction financing across the U.S. and Latin America, expanding the active loan portfolio's Latin American holdings by 50%. Bilingual capability meant direct engagement with developers, regulators, and financial institutions without the friction of translation.
 
 ## Beyond Language
 
-For Pablo M. Rivera, bilingualism represents something broader: the ability to operate across contexts. Leading mining operations in West Africa, managing national maintenance teams across 12 U.S. states, coordinating with property management portals and subcontractor networks — every environment has its own language, literally and figuratively.
+For Pablo M. Rivera, bilingualism represents something broader: the ability to operate across contexts. Leading mining operations in West Africa, managing national maintenance teams across 12 U.S. states, coordinating with property management portals and subcontractor networks â€” every environment has its own language, literally and figuratively.
 
 The skill that translates is adaptability. Understanding that different stakeholders have different perspectives, priorities, and communication styles, and being able to bridge those differences, is what operations leadership actually requires.
 
