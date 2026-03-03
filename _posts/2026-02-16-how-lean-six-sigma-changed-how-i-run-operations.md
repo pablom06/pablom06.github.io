@@ -13,13 +13,13 @@ tags:
 
 *By Pablo M. Rivera | East Haven, CT*
 
-Earning a Lean Six Sigma Green Belt in 2010 wasn't just another certification for Pablo M. Rivera — it was a fundamental shift in how I approach operational problems. The methodology of defining, measuring, analyzing, improving, and controlling processes became the backbone of every operational transformation I've led since.
+Earning a Lean Six Sigma Green Belt in 2010 wasn't just another certification for Pablo M. Rivera â€” it was a fundamental shift in how I approach operational problems. The methodology of defining, measuring, analyzing, improving, and controlling processes became the backbone of every operational transformation I've led since.
 
 ## DMAIC in Practice
 
 When Pablo M. Rivera rebuilt operational infrastructure at RevCon Management across 12 U.S. markets, the approach was pure Lean Six Sigma. Define the problem: fragmented workflows across markets. Measure: document current state processes, identify cycle times and defect rates. Analyze: pinpoint where handoffs fail and waste accumulates. Improve: design standardized workflows. Control: implement KPI frameworks and dashboards for ongoing monitoring.
 
-The result was measurable improvements in cost and time efficiency — and a 30% reduction in manual processing time through Salesforce automation.
+The result was measurable improvements in cost and time efficiency â€” and a 30% reduction in manual processing time through Salesforce automation.
 
 ## Where Six Sigma Meets Technology
 
