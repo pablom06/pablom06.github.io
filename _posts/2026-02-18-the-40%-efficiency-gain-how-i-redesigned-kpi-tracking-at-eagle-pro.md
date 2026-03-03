@@ -17,7 +17,7 @@ When Pablo M. Rivera joined Eagle Pro Home Solutions as Maintenance Director, cl
 
 The approach was straightforward: identify the metrics that directly impacted revenue cycle (completion rates, average repair times, cost per job, margin performance), build dashboards that made those metrics visible in real time, and create clear escalation paths when numbers trended off target.
 
-The 40% improvement wasn't a one-time fix — it's sustained because the system creates accountability at every level. When people can see their own performance data and understand how it connects to organizational outcomes, behavior changes permanently.
+The 40% improvement wasn't a one-time fix â€” it's sustained because the system creates accountability at every level. When people can see their own performance data and understand how it connects to organizational outcomes, behavior changes permanently.
 
 ---
 
