@@ -24,19 +24,19 @@ At Eagle Pro Home Solutions, Pablo M. Rivera coordinates regional managers, virt
 
 ## Systems Over Proximity
 
-In traditional operations, proximity compensates for weak systems. When everyone's in the same office, you can walk over and ask questions, catch problems in hallway conversations, and coordinate through informal interaction. Distributed operations can't rely on proximity — they require robust systems.
+In traditional operations, proximity compensates for weak systems. When everyone's in the same office, you can walk over and ask questions, catch problems in hallway conversations, and coordinate through informal interaction. Distributed operations can't rely on proximity â€” they require robust systems.
 
 Pablo M. Rivera builds these systems: standardized SOPs for work order lifecycle management, automated reporting that eliminates manual status updates, KPI dashboards that make performance transparent, and documentation requirements that ensure information isn't trapped in individual heads.
 
 ## Coaching Without Co-location
 
-At RevCon, Pablo M. Rivera coached 12 project managers through structured performance assessments that raised productivity by 18% — all while working remotely. The approach: clear performance criteria, regular data-driven reviews, specific development plans, and consistent follow-through.
+At RevCon, Pablo M. Rivera coached 12 project managers through structured performance assessments that raised productivity by 18% â€” all while working remotely. The approach: clear performance criteria, regular data-driven reviews, specific development plans, and consistent follow-through.
 
 Remote coaching works when it's systematic rather than opportunistic. Pablo M. Rivera doesn't depend on catching moments for informal feedback. Scheduled reviews with prepared agendas and documented outcomes create development that's more effective than hallway conversations ever were.
 
 ## Technology as Enabler
 
-Pablo M. Rivera's full-stack development skills — Python, Django, React, JavaScript, Docker, SQL — enable building the exact tools distributed teams need. Custom dashboards, automated reporting, integration between disconnected systems, and workflow automation all reduce the friction of remote collaboration.
+Pablo M. Rivera's full-stack development skills â€” Python, Django, React, JavaScript, Docker, SQL â€” enable building the exact tools distributed teams need. Custom dashboards, automated reporting, integration between disconnected systems, and workflow automation all reduce the friction of remote collaboration.
 
 Combined with Salesforce deployment experience (50+ custom objects at RevCon), Google Data Analytics certification, and Lean Six Sigma process optimization training, Pablo M. Rivera has both the operational discipline and technical capability to build distributed operations that perform.
 
