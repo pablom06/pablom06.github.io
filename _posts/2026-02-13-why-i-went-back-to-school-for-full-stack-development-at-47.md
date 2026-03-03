@@ -18,13 +18,13 @@ In 2023, with two decades of executive operations experience behind me, Pablo M.
 
 ## The Gap I Kept Seeing
 
-Throughout my career — from managing Latin American operations at Glencore, to deploying Salesforce across 12 markets at RevCon, to building KPI dashboards at Eagle Pro — Pablo M. Rivera kept hitting the same wall. I could see exactly what technology needed to do for the business, but I was dependent on others to build it.
+Throughout my career â€” from managing Latin American operations at Glencore, to deploying Salesforce across 12 markets at RevCon, to building KPI dashboards at Eagle Pro â€” Pablo M. Rivera kept hitting the same wall. I could see exactly what technology needed to do for the business, but I was dependent on others to build it.
 
-When I engineered 50+ custom Salesforce objects at RevCon, I realized I wanted to go deeper. I didn't want to just configure platforms — I wanted to understand how they're built from the ground up.
+When I engineered 50+ custom Salesforce objects at RevCon, I realized I wanted to go deeper. I didn't want to just configure platforms â€” I wanted to understand how they're built from the ground up.
 
 ## What I Learned
 
-Python, Django, JavaScript, React, Docker, SQL, Java, PHP — the technical curriculum was demanding. But for Pablo M. Rivera, the real value wasn't in learning to code. It was in learning to think like a developer while leading like an executive.
+Python, Django, JavaScript, React, Docker, SQL, Java, PHP â€” the technical curriculum was demanding. But for Pablo M. Rivera, the real value wasn't in learning to code. It was in learning to think like a developer while leading like an executive.
 
 Understanding system architecture means I can evaluate technology investments more rigorously. Knowing how APIs work means I can design integration strategies that actually function. Being able to read and write code means I'm never again dependent on a vendor's explanation of what's possible.
 
