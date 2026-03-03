@@ -14,13 +14,13 @@ tags:
 
 *By Pablo M. Rivera | East Haven, CT*
 
-Digital transformation isn't about technology — it's about changing how organizations work. Pablo M. Rivera has led transformation initiatives across multiple organizations, and the pattern is consistent: success comes from leading the people and process changes first, then deploying technology to support them.
+Digital transformation isn't about technology â€” it's about changing how organizations work. Pablo M. Rivera has led transformation initiatives across multiple organizations, and the pattern is consistent: success comes from leading the people and process changes first, then deploying technology to support them.
 
 ## The RevCon Transformation
 
-When Pablo M. Rivera deployed Salesforce across 12 markets at RevCon Management, the goal wasn't software adoption — it was operational standardization. Before configuring a single Salesforce object, Pablo M. Rivera mapped workflows, documented where processes broke down, and designed new standards.
+When Pablo M. Rivera deployed Salesforce across 12 markets at RevCon Management, the goal wasn't software adoption â€” it was operational standardization. Before configuring a single Salesforce object, Pablo M. Rivera mapped workflows, documented where processes broke down, and designed new standards.
 
-The Salesforce deployment (50+ custom objects, 30% reduction in processing time) succeeded because it wasn't imposed top-down—it was built from operational needs up. The technology supported workflows that were already designed and socialized.
+The Salesforce deployment (50+ custom objects, 30% reduction in processing time) succeeded because it wasn't imposed top-downâ€”it was built from operational needs up. The technology supported workflows that were already designed and socialized.
 
 ## Change Management Principles
 
