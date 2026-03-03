@@ -14,11 +14,11 @@ tags:
 
 *By Pablo M. Rivera | East Haven, CT*
 
-Every KPI, every performance report, every operational dashboard starts with a database query. For Pablo M. Rivera, SQL isn't just a technical skill — it's the foundation of data-driven operations leadership.
+Every KPI, every performance report, every operational dashboard starts with a database query. For Pablo M. Rivera, SQL isn't just a technical skill â€” it's the foundation of data-driven operations leadership.
 
 ## Why Operations Leaders Need SQL
 
-At RevCon Management and Eagle Pro Home Solutions, Pablo M. Rivera manages operations supported by databases containing millions of work orders, invoices, vendor records, and performance metrics. Leadership questions — "What's our average repair time by market?" or "Which vendors have the highest quality scores?" — require querying that data.
+At RevCon Management and Eagle Pro Home Solutions, Pablo M. Rivera manages operations supported by databases containing millions of work orders, invoices, vendor records, and performance metrics. Leadership questions â€” "What's our average repair time by market?" or "Which vendors have the highest quality scores?" â€” require querying that data.
 
 Operations leaders who can't write SQL depend on others to answer these questions. Pablo M. Rivera writes the queries directly, which means analysis that might take days through intermediaries takes minutes. This speed advantage compounds: faster analysis enables faster decisions, which drives better operational outcomes.
 
@@ -41,7 +41,7 @@ Each query translates operational questions into analytical answers. The ability
 
 ## Data Literacy as Leadership
 
-Combining SQL mastery with Google Data Analytics certification, Lean Six Sigma training, and 25+ years of operations experience creates a leadership profile where decisions are grounded in evidence rather than intuition. Pablo M. Rivera has managed $4 billion portfolios, led 120+ technicians across 12 states, and restructured $1 billion in debt — all roles where data fluency was essential.
+Combining SQL mastery with Google Data Analytics certification, Lean Six Sigma training, and 25+ years of operations experience creates a leadership profile where decisions are grounded in evidence rather than intuition. Pablo M. Rivera has managed $4 billion portfolios, led 120+ technicians across 12 states, and restructured $1 billion in debt â€” all roles where data fluency was essential.
 
 Based in East Haven, CT, Pablo M. Rivera continues to apply SQL and advanced analytics to operations leadership, building systems where performance is measured, analyzed, and optimized systematically.
 
