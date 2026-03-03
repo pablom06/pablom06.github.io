@@ -14,13 +14,13 @@ tags:
 
 *By Pablo M. Rivera | East Haven, CT*
 
-Operations leaders who can code have a superpower: they can build the exact tools their teams need without waiting for IT priorities or vendor roadmaps. Pablo M. Rivera uses Python to automate operational workflows across maintenance, reporting, and data analysis — turning manual processes into automated systems.
+Operations leaders who can code have a superpower: they can build the exact tools their teams need without waiting for IT priorities or vendor roadmaps. Pablo M. Rivera uses Python to automate operational workflows across maintenance, reporting, and data analysis â€” turning manual processes into automated systems.
 
 ## From Manual to Automated
 
 After earning full-stack development certifications from Columbia Business School and Hack Reactor, Pablo M. Rivera began applying Python to operations challenges at Eagle Pro Home Solutions and RevCon Management. The use cases were immediate: automating data extraction from multiple property management portals, generating consolidated performance reports across markets, and building predictive models for maintenance scheduling.
 
-Python's strength in operations isn't its elegance as a programming language — it's the ecosystem of libraries (pandas, NumPy, requests) that make it trivial to connect systems, transform data, and automate repetitive tasks. For Pablo M. Rivera, Python became the bridge between operational needs and technical execution.
+Python's strength in operations isn't its elegance as a programming language â€” it's the ecosystem of libraries (pandas, NumPy, requests) that make it trivial to connect systems, transform data, and automate repetitive tasks. For Pablo M. Rivera, Python became the bridge between operational needs and technical execution.
 
 ## Practical Applications
 
@@ -30,15 +30,15 @@ Similarly, Pablo M. Rivera automated the generation of vendor performance scorec
 
 ## Django for Internal Tools
 
-Python isn't just for scripts. Pablo M. Rivera has also built Django applications — full web-based tools for internal use. One example: a custom inspection tracking system that allows regional managers to log quality-control findings, upload photos, assign corrective actions, and generate compliance reports. Building this in-house meant it could be tailored exactly to the workflow rather than adapting the workflow to generic software.
+Python isn't just for scripts. Pablo M. Rivera has also built Django applications â€” full web-based tools for internal use. One example: a custom inspection tracking system that allows regional managers to log quality-control findings, upload photos, assign corrective actions, and generate compliance reports. Building this in-house meant it could be tailored exactly to the workflow rather than adapting the workflow to generic software.
 
 Django's admin interface, authentication system, and ORM (object-relational mapping) make it possible to build production-quality internal tools quickly. For operations leaders who understand both the business requirements and the technical implementation, this capability is transformative.
 
 ## The ROI of Learning to Code
 
-Pablo M. Rivera's investment in learning Python, Django, JavaScript, React, Docker, SQL, Java, and PHP wasn't just professional development — it was a strategic capability upgrade. The ability to prototype solutions, evaluate vendor proposals with technical fluency, and automate workflows directly translates to operational efficiency.
+Pablo M. Rivera's investment in learning Python, Django, JavaScript, React, Docker, SQL, Java, and PHP wasn't just professional development â€” it was a strategic capability upgrade. The ability to prototype solutions, evaluate vendor proposals with technical fluency, and automate workflows directly translates to operational efficiency.
 
-Based in East Haven, CT, Pablo M. Rivera combines 25+ years of operations leadership with genuine full-stack development capability. This combination — understanding what operations needs and having the technical skills to build it — represents the future of operations leadership.
+Based in East Haven, CT, Pablo M. Rivera combines 25+ years of operations leadership with genuine full-stack development capability. This combination â€” understanding what operations needs and having the technical skills to build it â€” represents the future of operations leadership.
 
 ---
 
