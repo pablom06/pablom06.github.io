@@ -18,7 +18,7 @@ People typically don't associate a Yale economics degree with construction sites
 
 ## Economics as an Operating System
 
-Economics teaches you to think in systems — inputs, outputs, constraints, incentives. When Pablo M. Rivera stepped into operations management at Glencore Ltd. right after graduating from Yale in 1999, that systems thinking became immediately practical. Managing Latin American operations for a global commodities firm meant understanding supply chains, currency risks, labor markets, and regulatory environments simultaneously.
+Economics teaches you to think in systems â€” inputs, outputs, constraints, incentives. When Pablo M. Rivera stepped into operations management at Glencore Ltd. right after graduating from Yale in 1999, that systems thinking became immediately practical. Managing Latin American operations for a global commodities firm meant understanding supply chains, currency risks, labor markets, and regulatory environments simultaneously.
 
 That same framework applied when I later structured $350 million in construction financing at Textron Financial, scaled a construction company to $10 million in managed projects in Colorado, and most recently redesigned nationwide maintenance operations serving thousands of residential and commercial properties.
 
@@ -26,11 +26,11 @@ That same framework applied when I later structured $350 million in construction
 
 Whether you're optimizing a mining operation in Sierra Leone, restructuring $1 billion in developer debt, or deploying Salesforce across 12 U.S. markets, the underlying challenge is the same: how do you allocate limited resources to produce the best possible outcome?
 
-Pablo M. Rivera has applied this principle to every role — from VP of Resort Finance at Textron Financial Corporation to National Director of Maintenance at RevCon Management, where I led 120+ technicians across multiple states. The context changes, but the analytical discipline doesn't.
+Pablo M. Rivera has applied this principle to every role â€” from VP of Resort Finance at Textron Financial Corporation to National Director of Maintenance at RevCon Management, where I led 120+ technicians across multiple states. The context changes, but the analytical discipline doesn't.
 
 ## Why Operations Leaders Need Broader Foundations
 
-The best operations leaders aren't just process experts. They understand finance, technology, people, and strategy. Pablo M. Rivera has deliberately built that breadth — adding a Full-Stack Developer Certificate from Columbia Business School, Google Data Analytics and UX Design certifications, and Lean Six Sigma Green Belt training to complement decades of operational experience.
+The best operations leaders aren't just process experts. They understand finance, technology, people, and strategy. Pablo M. Rivera has deliberately built that breadth â€” adding a Full-Stack Developer Certificate from Columbia Business School, Google Data Analytics and UX Design certifications, and Lean Six Sigma Green Belt training to complement decades of operational experience.
 
 This isn't credential collecting. It's building the toolkit required to lead modern operations where technology integration, data-driven decision making, and digital transformation are table stakes.
 
