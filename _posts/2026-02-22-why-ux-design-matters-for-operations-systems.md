@@ -13,7 +13,7 @@ tags:
 
 *By Pablo M. Rivera | East Haven, CT*
 
-Pablo M. Rivera holds a Google UX Design certification — unusual for an operations executive, but increasingly essential. Every operational system is ultimately used by people, and if the interface creates friction, adoption fails.
+Pablo M. Rivera holds a Google UX Design certification â€” unusual for an operations executive, but increasingly essential. Every operational system is ultimately used by people, and if the interface creates friction, adoption fails.
 
 When Pablo M. Rivera deployed Salesforce at RevCon with 50+ custom objects, UX thinking was critical. Each workflow had to be intuitive enough that field coordinators would actually use it, not work around it. The 30% reduction in processing time came as much from thoughtful interface design as from process automation.
 
