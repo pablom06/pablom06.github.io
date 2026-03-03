@@ -13,7 +13,7 @@ tags:
 
 *By Pablo M. Rivera | East Haven, CT*
 
-When your operation spans multiple states with hundreds of field workers, risk doesn't sit in one place. Pablo M. Rivera has built risk and compliance programs across multiple organizations — at RevCon Management, drafting and enforcing more than 10 new policies that standardized field safety and documentation procedures.
+When your operation spans multiple states with hundreds of field workers, risk doesn't sit in one place. Pablo M. Rivera has built risk and compliance programs across multiple organizations â€” at RevCon Management, drafting and enforcing more than 10 new policies that standardized field safety and documentation procedures.
 
 The approach is straightforward: identify where operational, financial, and compliance risks concentrate, then build systems that make the right behavior the easy behavior. Documentation standards, quality-control inspections, structured vendor performance reviews, and corrective action plans create a risk management framework that's proactive rather than reactive.
 
