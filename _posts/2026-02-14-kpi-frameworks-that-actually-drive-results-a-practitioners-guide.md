@@ -14,17 +14,17 @@ tags:
 
 *By Pablo M. Rivera | East Haven, CT*
 
-Most KPI frameworks fail. Not because the metrics are wrong, but because they're disconnected from how decisions actually get made. Pablo M. Rivera has designed and implemented KPI systems across multiple organizations — and the ones that work share specific characteristics.
+Most KPI frameworks fail. Not because the metrics are wrong, but because they're disconnected from how decisions actually get made. Pablo M. Rivera has designed and implemented KPI systems across multiple organizations â€” and the ones that work share specific characteristics.
 
 ## Start With Decisions, Not Data
 
-At Eagle Pro Home Solutions, Pablo M. Rivera designed company-wide KPI tracking that improved close-out timelines and invoicing efficiency by 40%. That result didn't come from measuring everything — it came from asking: what decisions do our managers make every week, and what data would make those decisions better?
+At Eagle Pro Home Solutions, Pablo M. Rivera designed company-wide KPI tracking that improved close-out timelines and invoicing efficiency by 40%. That result didn't come from measuring everything â€” it came from asking: what decisions do our managers make every week, and what data would make those decisions better?
 
-The metrics that emerged — completion rates, average repair times, cost per job, margin performance — were chosen because they directly informed staffing decisions, vendor selection, and escalation protocols. Every KPI had a clear action attached to it.
+The metrics that emerged â€” completion rates, average repair times, cost per job, margin performance â€” were chosen because they directly informed staffing decisions, vendor selection, and escalation protocols. Every KPI had a clear action attached to it.
 
 ## The RevCon Framework
 
-At RevCon Management, Pablo M. Rivera built a comprehensive KPI framework serving 12 markets. The system tracked job completion rates, repair cycle times, cost per service call, and margin performance across every market. But the framework's power wasn't in the tracking — it was in what happened with the data.
+At RevCon Management, Pablo M. Rivera built a comprehensive KPI framework serving 12 markets. The system tracked job completion rates, repair cycle times, cost per service call, and margin performance across every market. But the framework's power wasn't in the tracking â€” it was in what happened with the data.
 
 Quarterly reviews used these KPIs to drive five major leadership initiatives. Resource allocation decisions were informed by actual utilization data, leading to a 20% reduction in operational expenses. Coaching conversations with project managers were grounded in specific metrics, raising productivity by 18%.
 
