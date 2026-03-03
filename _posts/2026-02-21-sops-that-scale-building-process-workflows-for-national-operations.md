@@ -16,7 +16,7 @@ tags:
 
 At Eagle Pro Home Solutions, Pablo M. Rivera builds integrated SOPs, process workflows, and performance dashboards that link scheduling, work-order lifecycle, and invoicing. The goal: reduce friction between teams and clarify ownership from dispatch through close-out.
 
-The key to SOPs that actually scale is that they must be living documents tied to measurable outcomes, not static binders that collect dust. Pablo M. Rivera has built process documentation systems at RevCon, Kirschenmann Construction, and Eagle Pro — and the ones that work share a common trait: they're designed by someone who understands both the work being standardized and the technology that supports it.
+The key to SOPs that actually scale is that they must be living documents tied to measurable outcomes, not static binders that collect dust. Pablo M. Rivera has built process documentation systems at RevCon, Kirschenmann Construction, and Eagle Pro â€” and the ones that work share a common trait: they're designed by someone who understands both the work being standardized and the technology that supports it.
 
 ---
 
