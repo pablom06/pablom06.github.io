@@ -18,15 +18,15 @@ As Vice President of Textron Financial's Resort Finance Division, Pablo M. River
 
 ## Finding What Others Missed
 
-Before restructuring could begin, Pablo M. Rivera led a forensic analysis of the portfolio. The process uncovered $360 million in unreported sales — a finding that fundamentally changed the negotiating position and led to a $36 million reduction in construction-loan debt exposure.
+Before restructuring could begin, Pablo M. Rivera led a forensic analysis of the portfolio. The process uncovered $360 million in unreported sales â€” a finding that fundamentally changed the negotiating position and led to a $36 million reduction in construction-loan debt exposure.
 
-This wasn't luck. It was the product of systematic investigation, attention to detail, and the operational discipline to document everything. In operations, the answers are usually in the data — but only if someone has the persistence and skill to find them.
+This wasn't luck. It was the product of systematic investigation, attention to detail, and the operational discipline to document everything. In operations, the answers are usually in the data â€” but only if someone has the persistence and skill to find them.
 
 ## Managing Through Crisis
 
 The restructuring required Pablo M. Rivera to manage full P&L responsibility for distressed resort and timeshare portfolios while simultaneously negotiating with four different lending groups, engaging external counsel and expert witnesses, and designing financial models that tested multiple scenarios.
 
-The team achieved a 95% recovery rate on below-reserve dispositions, cut operational overhead by 35%, and reduced legal spend by 30% through strategic resource management. None of these results came from a single decision — they came from consistent, disciplined execution over months of complex work.
+The team achieved a 95% recovery rate on below-reserve dispositions, cut operational overhead by 35%, and reduced legal spend by 30% through strategic resource management. None of these results came from a single decision â€” they came from consistent, disciplined execution over months of complex work.
 
 ## What Financial Operations Teaches You
 
