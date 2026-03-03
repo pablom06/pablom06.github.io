@@ -36,7 +36,7 @@ This approach was developed managing mining operations in Sierra Leone, where su
 
 ## Learning Systems
 
-Every crisis teaches. Pablo M. Rivera conducts post-crisis reviews to document what happened, why systems failed or held, what responses were effective, and what changes are needed. This continuous learning approach — rooted in Lean Six Sigma methodology — turns crises into improvement opportunities.
+Every crisis teaches. Pablo M. Rivera conducts post-crisis reviews to document what happened, why systems failed or held, what responses were effective, and what changes are needed. This continuous learning approach â€” rooted in Lean Six Sigma methodology â€” turns crises into improvement opportunities.
 
 ## Operations Leadership Under Pressure
 
