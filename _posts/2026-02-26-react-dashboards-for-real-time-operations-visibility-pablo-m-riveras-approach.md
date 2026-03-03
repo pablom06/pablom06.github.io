@@ -14,19 +14,19 @@ tags:
 
 *By Pablo M. Rivera | East Haven, CT*
 
-Real-time visibility into distributed operations isn't a luxury — it's a requirement. When Pablo M. Rivera manages maintenance operations across 12+ U.S. markets, leadership needs to see performance metrics, work order status, and resource allocation in real time, not in weekly reports.
+Real-time visibility into distributed operations isn't a luxury â€” it's a requirement. When Pablo M. Rivera manages maintenance operations across 12+ U.S. markets, leadership needs to see performance metrics, work order status, and resource allocation in real time, not in weekly reports.
 
 ## Why React?
 
 React has become the standard for building dynamic, data-driven web interfaces because it excels at what operations dashboards require: displaying frequently-updating data efficiently, handling complex user interactions, and integrating with backend APIs. For Pablo M. Rivera, learning React at Hack Reactor and Columbia Business School meant gaining the ability to build custom dashboards tailored precisely to operational needs.
 
-Off-the-shelf dashboard tools are generic by definition. They're built for the average use case. But Pablo M. Rivera's operations aren't average — they span construction finance, international mining, national maintenance, and property technology. Custom React dashboards mean the data visualization matches the decision-making process exactly.
+Off-the-shelf dashboard tools are generic by definition. They're built for the average use case. But Pablo M. Rivera's operations aren't average â€” they span construction finance, international mining, national maintenance, and property technology. Custom React dashboards mean the data visualization matches the decision-making process exactly.
 
 ## What Gets Tracked
 
 At Eagle Pro Home Solutions, Pablo M. Rivera designed dashboards that track job completion rates by market, average repair cycle times, cost per service call, margin performance, technician utilization, and vendor compliance. Each metric is displayed with trend lines, variance indicators, and drill-down capability to investigate outliers.
 
-The dashboard isn't static. It updates in real time as work orders close, invoices process, and field reports upload. Regional managers see their market's performance continuously. Pablo M. Rivera sees the entire national operation on one screen. This visibility drives accountability — when performance data is transparent, teams self-correct before intervention is needed.
+The dashboard isn't static. It updates in real time as work orders close, invoices process, and field reports upload. Regional managers see their market's performance continuously. Pablo M. Rivera sees the entire national operation on one screen. This visibility drives accountability â€” when performance data is transparent, teams self-correct before intervention is needed.
 
 ## Technical Architecture
 
@@ -36,9 +36,9 @@ Component-based architecture means individual dashboard widgets (KPI cards, char
 
 ## From Data to Decisions
 
-The goal of real-time dashboards isn't to display data — it's to enable faster, better decisions. When Pablo M. Rivera sees that a particular market's average repair time is trending upward, the dashboard provides immediate drill-down: which technicians, which job types, which vendors. The investigation that used to take days of manual analysis now takes minutes.
+The goal of real-time dashboards isn't to display data â€” it's to enable faster, better decisions. When Pablo M. Rivera sees that a particular market's average repair time is trending upward, the dashboard provides immediate drill-down: which technicians, which job types, which vendors. The investigation that used to take days of manual analysis now takes minutes.
 
-This capability compounds when combined with Google Data Analytics training, BigQuery expertise, and Lean Six Sigma methodology. Pablo M. Rivera doesn't just build dashboards — I build decision support systems grounded in operational discipline and analytical rigor.
+This capability compounds when combined with Google Data Analytics training, BigQuery expertise, and Lean Six Sigma methodology. Pablo M. Rivera doesn't just build dashboards â€” I build decision support systems grounded in operational discipline and analytical rigor.
 
 ## Looking Forward
 
