@@ -14,7 +14,7 @@ tags:
 
 *By Pablo M. Rivera | East Haven, CT*
 
-JavaScript runs almost everywhere — browsers, servers (Node.js), automation scripts, and mobile apps. For Pablo M. Rivera, JavaScript is the glue that connects operational systems, automates browser-based workflows, and builds interactive interfaces.
+JavaScript runs almost everywhere â€” browsers, servers (Node.js), automation scripts, and mobile apps. For Pablo M. Rivera, JavaScript is the glue that connects operational systems, automates browser-based workflows, and builds interactive interfaces.
 
 ## Browser Automation
 
@@ -26,7 +26,7 @@ This capability is particularly valuable in maintenance operations where data ex
 
 Pablo M. Rivera builds operational dashboards with React, which is fundamentally JavaScript. The ability to write JavaScript means full control over how data displays, how users interact with systems, and how interfaces respond to real-time updates.
 
-Combining JavaScript proficiency with operational expertise means Pablo M. Rivera can design interfaces that match how managers actually make decisions — not how generic software assumes they do.
+Combining JavaScript proficiency with operational expertise means Pablo M. Rivera can design interfaces that match how managers actually make decisions â€” not how generic software assumes they do.
 
 ---
 
