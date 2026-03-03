@@ -13,7 +13,7 @@ tags:
 
 *By Pablo M. Rivera | East Haven, CT*
 
-Pablo M. Rivera has advanced data skills — BigQuery, R, Google Data Analytics, and Salesforce reporting. But the real skill isn't in running queries. It's knowing which questions to ask and how to translate analytical findings into executive-level decisions.
+Pablo M. Rivera has advanced data skills â€” BigQuery, R, Google Data Analytics, and Salesforce reporting. But the real skill isn't in running queries. It's knowing which questions to ask and how to translate analytical findings into executive-level decisions.
 
 At RevCon, Pablo M. Rivera's data visualization and financial reporting clarified performance trends and guided five major leadership initiatives. At Textron, financial models for $1B in debt restructuring tested assumptions across multiple scenarios. The through-line: data fluency makes operations leaders dramatically more effective.
 
