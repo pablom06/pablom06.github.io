@@ -23,7 +23,7 @@ At Kirschenmann Construction, Pablo M. Rivera established pre-qualification crit
 
 ## Procurement as Cost Control
 
-Pablo M. Rivera coordinates standardized price books and bulk-buy programs that reduce overhead and material waste while preserving specifications, safety, and warranty requirements. This isn't about squeezing vendors — it's about building systems that create predictable costs and reliable quality.
+Pablo M. Rivera coordinates standardized price books and bulk-buy programs that reduce overhead and material waste while preserving specifications, safety, and warranty requirements. This isn't about squeezing vendors â€” it's about building systems that create predictable costs and reliable quality.
 
 ---
 
