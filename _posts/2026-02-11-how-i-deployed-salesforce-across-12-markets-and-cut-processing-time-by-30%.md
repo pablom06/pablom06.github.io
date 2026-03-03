@@ -14,7 +14,7 @@ tags:
 
 *By Pablo M. Rivera | East Haven, CT*
 
-Enterprise technology deployments fail more often than they succeed. Not because the software is bad, but because the implementation ignores how people actually work. When Pablo M. Rivera was tasked with deploying Salesforce company-wide at RevCon Management, the goal wasn't just to install software — it was to fundamentally transform how a national maintenance operation functioned.
+Enterprise technology deployments fail more often than they succeed. Not because the software is bad, but because the implementation ignores how people actually work. When Pablo M. Rivera was tasked with deploying Salesforce company-wide at RevCon Management, the goal wasn't just to install software â€” it was to fundamentally transform how a national maintenance operation functioned.
 
 ## The Problem
 
@@ -24,11 +24,11 @@ RevCon operated across 12 U.S. markets with 120+ technicians and 12 coordinators
 
 Pablo M. Rivera didn't start with Salesforce. I started by analyzing the workflows. Before writing any configuration, I mapped every process from work order creation to close-out, identified where handoffs broke down, and documented where manual steps could be automated.
 
-Then I built the Salesforce environment from the ground up — engineering more than 50 bespoke objects, reports, and automated workflows tailored to how our teams actually operated. This wasn't an off-the-shelf deployment. Every custom object solved a specific operational problem.
+Then I built the Salesforce environment from the ground up â€” engineering more than 50 bespoke objects, reports, and automated workflows tailored to how our teams actually operated. This wasn't an off-the-shelf deployment. Every custom object solved a specific operational problem.
 
 ## The Results
 
-Administrative processing time dropped by 30%. That's not a vanity metric — it meant coordinators spent less time on data entry and more time managing work quality. It meant leadership had real-time dashboards instead of waiting for weekly reports. It meant the data existed to build the KPI frameworks that would drive further optimization.
+Administrative processing time dropped by 30%. That's not a vanity metric â€” it meant coordinators spent less time on data entry and more time managing work quality. It meant leadership had real-time dashboards instead of waiting for weekly reports. It meant the data existed to build the KPI frameworks that would drive further optimization.
 
 ## Lessons for Operations Leaders
 
