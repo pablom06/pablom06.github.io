@@ -18,7 +18,7 @@ Between 2014 and 2018, Pablo M. Rivera co-founded and scaled Kirschenmann Constr
 
 ## What Worked
 
-Discipline. Not inspiration, not networking, not hustle—discipline. Pablo M. Rivera directed full project lifecycles from estimating and bidding through resource scheduling and inspection. Every project had a job-cost tracking tool and a forecasting model. Every subcontractor went through a pre-qualification process. Every decision was grounded in whether it protected margins and upheld safety standards.
+Discipline. Not inspiration, not networking, not hustleâ€”discipline. Pablo M. Rivera directed full project lifecycles from estimating and bidding through resource scheduling and inspection. Every project had a job-cost tracking tool and a forecasting model. Every subcontractor went through a pre-qualification process. Every decision was grounded in whether it protected margins and upheld safety standards.
 
 The result was consistent delivery performance that produced a stable pipeline of repeat contracts. In construction, reputation is the business development engine.
 
@@ -28,7 +28,7 @@ I'd invest in technology earlier. When I later deployed Salesforce at RevCon and
 
 ## The Foundation It Built
 
-Launching and scaling a business teaches you things that no corporate role can. Understanding cash flow viscerally, managing risk with your own capital on the line, building client relationships where every project matters — these experiences inform how Pablo M. Rivera leads operations today.
+Launching and scaling a business teaches you things that no corporate role can. Understanding cash flow viscerally, managing risk with your own capital on the line, building client relationships where every project matters â€” these experiences inform how Pablo M. Rivera leads operations today.
 
 ---
 
