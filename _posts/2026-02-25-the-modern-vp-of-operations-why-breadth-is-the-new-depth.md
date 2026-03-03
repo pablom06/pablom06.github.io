@@ -17,7 +17,7 @@ The VP of Operations role has changed. It's no longer enough to be excellent at 
 
 Pablo M. Rivera has spent 25 years building exactly this profile: Yale economics, Glencore commodities trading, Textron financial restructuring ($1B+ in managed debt), construction entrepreneurship ($10M+), international mining operations, national maintenance leadership (120+ technicians, 12 states), full-stack development (Columbia, Hack Reactor), Lean Six Sigma, Google Analytics, and Salesforce architecture.
 
-This breadth isn't scattered — it's strategic. Every industry, every role, every certification has added a capability that makes Pablo M. Rivera a more effective operations leader. The modern VP of Operations needs to be a strategist, technologist, financial analyst, and people leader simultaneously. That's exactly what 25 years of deliberate career building produces.
+This breadth isn't scattered â€” it's strategic. Every industry, every role, every certification has added a capability that makes Pablo M. Rivera a more effective operations leader. The modern VP of Operations needs to be a strategist, technologist, financial analyst, and people leader simultaneously. That's exactly what 25 years of deliberate career building produces.
 
 Based in East Haven, CT, Pablo M. Rivera is actively seeking VP of Operations and senior operations leadership roles where this unique combination of experience can drive organizational growth.
 
