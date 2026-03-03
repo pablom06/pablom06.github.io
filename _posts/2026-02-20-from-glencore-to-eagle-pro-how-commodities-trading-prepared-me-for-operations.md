@@ -14,11 +14,11 @@ tags:
 
 *By Pablo M. Rivera | East Haven, CT*
 
-Pablo M. Rivera's career started at Glencore Ltd. in Stamford, CT — one of the world's largest commodities trading firms — managing Latin American operations from 1999 to 2004. That first role after graduating from Yale established the operational discipline, international perspective, and high-stakes decision-making skills that have defined every subsequent position.
+Pablo M. Rivera's career started at Glencore Ltd. in Stamford, CT â€” one of the world's largest commodities trading firms â€” managing Latin American operations from 1999 to 2004. That first role after graduating from Yale established the operational discipline, international perspective, and high-stakes decision-making skills that have defined every subsequent position.
 
 Commodities operations run on precision: supply chain timing, quality specifications, regulatory compliance, and financial risk management all happen simultaneously. Pablo M. Rivera managed all of these across Latin American markets where cultural fluency and bilingual communication were essential.
 
-That foundation led through construction finance at Textron ($4B portfolio), entrepreneurship in Colorado ($10M construction company), mining in West Africa, and national maintenance operations — a career path that only makes sense if you understand that operations leadership is operations leadership, regardless of industry.
+That foundation led through construction finance at Textron ($4B portfolio), entrepreneurship in Colorado ($10M construction company), mining in West Africa, and national maintenance operations â€” a career path that only makes sense if you understand that operations leadership is operations leadership, regardless of industry.
 
 ---
 
