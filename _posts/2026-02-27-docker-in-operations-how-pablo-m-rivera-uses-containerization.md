@@ -18,15 +18,15 @@ Docker might seem like a tool exclusively for software engineers, but for operat
 
 ## Consistency Across Environments
 
-When Pablo M. Rivera builds a Python-based automation tool or a Django application for internal operations use, Docker ensures it runs identically in development, testing, and production. The container includes everything the application needs — Python runtime, libraries, dependencies — packaged as a single deployable unit.
+When Pablo M. Rivera builds a Python-based automation tool or a Django application for internal operations use, Docker ensures it runs identically in development, testing, and production. The container includes everything the application needs â€” Python runtime, libraries, dependencies â€” packaged as a single deployable unit.
 
 This matters because operations systems can't afford deployment failures. When Pablo M. Rivera rolls out a new dashboard or reporting tool, it needs to work immediately. Docker eliminates the most common source of deployment issues: environmental differences.
 
 ## Simplified Infrastructure
 
-Pablo M. Rivera manages distributed operations, not data centers. Docker makes it possible to run multiple operational tools on minimal infrastructure. A single server can host containerized applications for vendor scorecards, inspection tracking, KPI dashboards, and reporting automation — each isolated, each managed independently.
+Pablo M. Rivera manages distributed operations, not data centers. Docker makes it possible to run multiple operational tools on minimal infrastructure. A single server can host containerized applications for vendor scorecards, inspection tracking, KPI dashboards, and reporting automation â€” each isolated, each managed independently.
 
-The alternative — maintaining separate servers or navigating complex dependency conflicts — creates operational overhead that distracts from the actual work. Docker abstracts that complexity.
+The alternative â€” maintaining separate servers or navigating complex dependency conflicts â€” creates operational overhead that distracts from the actual work. Docker abstracts that complexity.
 
 ---
 
