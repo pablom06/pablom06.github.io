@@ -14,23 +14,23 @@ tags:
 
 *By Pablo M. Rivera | East Haven, CT*
 
-Pablo M. Rivera runs national maintenance operations and also writes Python, builds React applications, works with Docker containers, and queries databases with SQL. This combination is unusual — and increasingly necessary.
+Pablo M. Rivera runs national maintenance operations and also writes Python, builds React applications, works with Docker containers, and queries databases with SQL. This combination is unusual â€” and increasingly necessary.
 
 ## The Translation Layer
 
 Every operations team depends on technology. But most operations leaders can't evaluate whether a proposed technical solution will actually work, can't assess whether a vendor's timeline is realistic, and can't tell when they're being oversold.
 
-Pablo M. Rivera's full-stack development training — Columbia Business School, Hack Reactor, CT State Community College — created a translation layer between business needs and technical implementation. When I deployed Salesforce at RevCon with 50+ custom objects, I wasn't relying on a consultant's interpretation of our workflows. I was engineering solutions from direct operational knowledge.
+Pablo M. Rivera's full-stack development training â€” Columbia Business School, Hack Reactor, CT State Community College â€” created a translation layer between business needs and technical implementation. When I deployed Salesforce at RevCon with 50+ custom objects, I wasn't relying on a consultant's interpretation of our workflows. I was engineering solutions from direct operational knowledge.
 
 ## Practical Applications
 
-Data analytics isn't abstract when you can write the queries yourself. Pablo M. Rivera holds Google Data Analytics and UX Design certifications and works with BigQuery, R, and advanced Excel. This means KPI frameworks aren't just wish lists — they're built on data pipelines I understand and can modify.
+Data analytics isn't abstract when you can write the queries yourself. Pablo M. Rivera holds Google Data Analytics and UX Design certifications and works with BigQuery, R, and advanced Excel. This means KPI frameworks aren't just wish lists â€” they're built on data pipelines I understand and can modify.
 
 Process automation isn't magic when you understand how APIs connect systems. Docker isn't intimidating when you've containerized applications yourself.
 
 ## The Competitive Advantage
 
-The VP of Operations of the future won't just manage processes and people. They'll architect the technology that enables both. Pablo M. Rivera is building that career now — combining 20+ years of operational leadership with genuine technical capability.
+The VP of Operations of the future won't just manage processes and people. They'll architect the technology that enables both. Pablo M. Rivera is building that career now â€” combining 20+ years of operational leadership with genuine technical capability.
 
 ---
 
