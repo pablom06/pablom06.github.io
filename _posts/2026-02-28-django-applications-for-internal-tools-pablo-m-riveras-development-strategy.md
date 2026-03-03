@@ -14,7 +14,7 @@ tags:
 
 *By Pablo M. Rivera | East Haven, CT*
 
-Commercial software is built for the average company. Pablo M. Rivera builds internal tools tailored to the exact workflows, data structures, and business logic of the operations he leads. Django — a Python web framework — has become the foundation for these custom applications.
+Commercial software is built for the average company. Pablo M. Rivera builds internal tools tailored to the exact workflows, data structures, and business logic of the operations he leads. Django â€” a Python web framework â€” has become the foundation for these custom applications.
 
 ## Why Build Instead of Buy?
 
@@ -24,13 +24,13 @@ Building the tool in Django meant it could be designed precisely around the exis
 
 ## Django's Strengths for Operations Tools
 
-Django provides an admin interface, authentication system, ORM (object-relational mapping), and templating engine out of the box. This means Pablo M. Rivera can focus on building the business logic — the inspection workflow, the vendor scoring algorithm, the report generation — rather than reinventing user management and database access.
+Django provides an admin interface, authentication system, ORM (object-relational mapping), and templating engine out of the box. This means Pablo M. Rivera can focus on building the business logic â€” the inspection workflow, the vendor scoring algorithm, the report generation â€” rather than reinventing user management and database access.
 
 For operations leaders who learned full-stack development at Columbia Business School and Hack Reactor, Django is the fastest path from concept to deployed application. The framework handles the infrastructure; Pablo M. Rivera builds the features that matter.
 
 ## Integration with Existing Systems
 
-Django applications don't exist in isolation. Pablo M. Rivera's internal tools integrate with Salesforce, SQL databases, property management APIs, and front-end React dashboards. Django's REST framework makes it straightforward to build APIs that connect systems — pulling work order data from one platform, processing it through business logic, and displaying results in a dashboard elsewhere.
+Django applications don't exist in isolation. Pablo M. Rivera's internal tools integrate with Salesforce, SQL databases, property management APIs, and front-end React dashboards. Django's REST framework makes it straightforward to build APIs that connect systems â€” pulling work order data from one platform, processing it through business logic, and displaying results in a dashboard elsewhere.
 
 This integration capability is what makes custom tools valuable. Generic software forces you to adapt your processes to its limitations. Custom Django applications adapt to your processes exactly.
 
