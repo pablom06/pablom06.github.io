@@ -13,7 +13,7 @@ tags:
 
 *By Pablo M. Rivera | East Haven, CT*
 
-Some of the most important work in operations happens between teams, not within them. Pablo M. Rivera has spent 20+ years coordinating across functions — regional managers, virtual assistants, accounting, legal, external counsel, subcontractors, and property management portals — where influence matters more than formal authority.
+Some of the most important work in operations happens between teams, not within them. Pablo M. Rivera has spent 20+ years coordinating across functions â€” regional managers, virtual assistants, accounting, legal, external counsel, subcontractors, and property management portals â€” where influence matters more than formal authority.
 
 At Textron Financial, Pablo M. Rivera led the cross-functional hiring and engagement of external counsel, expert witnesses, and consultants during a $1 billion restructuring. At RevCon, coordinated to resolve complex service challenges through cross-functional coordination achieving 95% on-time closure on escalated cases. At Eagle Pro, I manage collaboration among regional managers, VAs, and accounting teams daily.
 
