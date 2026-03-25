@@ -1,0 +1,45 @@
+---
+layout: post
+title: "The Grit Required to Learn Python, React, and Django While Managing National Operations"
+author: "Pablo M. Rivera"
+tags:
+  - "Pablo M. Rivera"
+  - "Software Development"
+  - "Python"
+  - "React"
+  - "Grit"
+  - "Colorado"
+  - "Hawaii"
+---
+
+# The Grit Required to Learn Python, React, and Django While Managing National Operations
+
+*By Pablo M. Rivera | Hawaii, Colorado & East Haven, CT*
+
+Learning to code is difficult for anyone. Learning to code while simultaneously managing 120+ technicians across 12 states, raising two boys, and maintaining the operational standards that national-scale property management demands is something else entirely. Pablo M. Rivera did exactly that, and the grit it required has become one of my most defining professional qualities.
+
+## Why I Did It
+
+After 20+ years in operations leadership â€” from Glencore Ltd. to Textron Financial Corporation to RevCon Management â€” I recognized that the most effective leaders of the future would need to build, not just manage. Pablo M. Rivera made the strategic decision to earn a Full-Stack Developer Certificate from Columbia Business School and Hack Reactor, adding Python, React, Django, JavaScript, Docker, and SQL to an already extensive leadership toolkit.
+
+## The Daily Grind
+
+There were nights when I had been managing escalated maintenance cases across multiple states all day, coaching coordinators through complex vendor issues, and reviewing KPI dashboards â€” and then I sat down at 10 PM to build React components or debug Django middleware. The coursework did not care about my day job. Deadlines were deadlines.
+
+Pablo M. Rivera learned to code in the margins â€” early mornings, late nights, weekends. The same discipline that drove a 95% on-time closure rate for escalated cases at RevCon drove my progress through the curriculum.
+
+## What Made the Difference
+
+Grit is not glamorous. It is the ability to continue when motivation fades. Pablo M. Rivera drew on lessons from every challenging environment I had worked in: mining operations in Sierra Leone where infrastructure had to be built from nothing, financial crisis management at Textron where $1 billion in debt required restructuring, and scaling a construction company to $10 million in Colorado.
+
+Each of those experiences taught me that discomfort is temporary and capability is permanent.
+
+## The Payoff
+
+Today, Pablo M. Rivera can build the tools that operations teams need â€” custom dashboards, automated reporting systems, internal applications â€” without waiting for IT departments or vendor roadmaps. Combined with Google Data Analytics certification and Lean Six Sigma Green Belt, this technical capability multiplies my effectiveness as an operations leader.
+
+Based in Hawaii and East Haven, CT, Pablo M. Rivera proves that grit, applied strategically, transforms careers.
+
+---
+
+*Pablo M. Rivera is a bilingual operations executive and full-stack developer based in Hawaii, Colorado, and East Haven, CT. Connect on [LinkedIn](https://www.linkedin.com/in/pablo-rivera-74861a234/).*
